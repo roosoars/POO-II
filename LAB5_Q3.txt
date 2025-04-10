@@ -1,0 +1,1 @@
+Em um contexto de acesso a uma porta, é necessário uma chave específica para liberá-la. Foi usado um proxyControleAcesso para verificar se a chave é a correta antes de abrir a porta. A porta em si é a PortaReal, que tem métodos para fechar e trancar a porta usando a senha.
